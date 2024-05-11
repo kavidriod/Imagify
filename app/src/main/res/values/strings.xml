@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Imagify</string>
+        <string name="che_title">Chennai</string>
+        <string name="che_url">https://images.pexels.com/photos/6667281/pexels-photo-6667281.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1</string>
+        <string name="che_desc">Chennai, formerly known as Madras, is a bustling metropolitan city on the southeastern coast of India. It\'s the capital of the state of Tamil Nadu and is known for its rich culture, heritage, and beaches.
+    </string>
+        <string name="bangalore_name">Bangalore</string>
+        <string name="bangalore_url">https://images.pexels.com/photos/739987/pexels-photo-739987.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1</string>
+        <string name="bangalore_desc">Bangalore, also officially known as Bengaluru,
+            is the capital of the southern Indian state of Karnataka.
+            It\'s a perfect blend of modern metropolis and rich heritage,
+            earning it the nicknames "Garden City" and "Silicon Valley of India."
+    </string>
+        <string name="kerala_name">Kerala</string>
+        <string name="kerala_url">https://images.pexels.com/photos/962464/pexels-photo-962464.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1</string>
+        <string name="kerala_desc">Kerala, nicknamed "God's Own Country," is a state on India\'s tropical Malabar Coast,
+            known for its stunning natural beauty, rich cultural heritage, and laid-back atmosphere.
+            Munnar, Wayanad, and Idukki are popular hill stations in Kerala, offering stunning mountain scenery,
+            trekking opportunities, and refreshing escapes from the coastal heat.
+    </string>
+        <string name="mangalore_name">Mangaluru</string>
+        <string name="mangalore_url">https://images.pexels.com/photos/20531275/pexels-photo-20531275/free-photo-of-a-group-of-boats-are-docked-in-the-water.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1</string>
+        <string name="mangalore_desc">Mangalore, also known as Mangaluru,is a vibrant port city on the southwestern coast of India, in the state of Karnataka.It\'s known for its beautiful beaches, delicious seafood cuisine, and rich cultural heritage.
+    </string>
+        <string name="error_message">Error while loading image.</string>
+        <string name="reload">Reload</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    </resources>
